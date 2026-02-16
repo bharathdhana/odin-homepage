@@ -1,4 +1,4 @@
 The Odin Project <br>
-Learn through Documentation
-A Good Practice to upskill via documentation
+Learn through Documentation <br>
+A Good Practice to upskill via documentation <br>
 Escape Tutorial HELL
