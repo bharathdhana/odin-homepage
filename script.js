@@ -5,7 +5,7 @@ document.getElementById("submit-button").addEventListener("click", function () {
     document.getElementById("email").value === "" ||
     document.getElementById("password").value === "" ||
     document.getElementById("confirmPassword").value === "" ||
-    document.getElementById("Number").value === ""
+    document.getElementById("phone").value === ""
   ) {
     alert("Please fill in all fields.");
     return;
